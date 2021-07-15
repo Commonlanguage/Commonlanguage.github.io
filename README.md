@@ -71,7 +71,7 @@
 68. [20161228_1口述史蔡一平：探索第三世界女权运动](https://commonlanguage.github.io/TYarchives2016/20161228_1口述史蔡一平：探索第三世界女权运动.html)
 69. [20161230_1彩虹成长支持小组纪实分享心灵之旅——内在的整合与洗礼](https://commonlanguage.github.io/TYarchives2016/20161230_1彩虹成长支持小组纪实分享心灵之旅——内在的整合与洗礼.html)
 70. [20161231_1未完待续2016还在，2017同语与你同在](https://commonlanguage.github.io/TYarchives2016/20161231_1未完待续2016还在，2017同语与你同在.html)
-71. ## 2017
+## 2017
 72. [20170104_1口述史吕频：从女权主义走近女同志](https://commonlanguage.github.io/TYarchives2017-1/20170104_1口述史吕频：从女权主义走近女同志.html)
 73. [20170111_1口述史Ana：跟西方不一样的拉拉文化](https://commonlanguage.github.io/TYarchives2017-1/20170111_1口述史Ana：跟西方不一样的拉拉文化.html)
 74. [20170118_1口述史Sam：让世界更明亮的热情](https://commonlanguage.github.io/TYarchives2017-1/20170118_1口述史Sam：让世界更明亮的热情.html)
