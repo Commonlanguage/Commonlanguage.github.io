@@ -149,7 +149,7 @@
 145. [20170728_2同语彩虹暴力终结所律师交流会北京站火热来袭](https://commonlanguage.github.io/TYarchives2017-1/20170728_2同语彩虹暴力终结所律师交流会北京站火热来袭.html)
 146. [20170730_1“我们中国人，不结婚生子就是不孝！”｜测测父母的价值观是否利于你出柜](https://commonlanguage.github.io/TYarchives2017-1/20170730_1“我们中国人，不结婚生子就是不孝！”｜测测父母的价值观是否利于你出柜.html)
 147. [20170731_1同语彩虹暴力终结所律师交流会来啦~](https://commonlanguage.github.io/TYarchives2017-1/20170731_1同语彩虹暴力终结所律师交流会来啦~.html)
-148. [20170802_1同语彩虹暴力终结所律师交流会来啦~~](https://commonlanguage.github.io/TYarchives2017-2/20170802_1同语彩虹暴力终结所律师交流会来啦~~.html)
+148. [20170802_1同语彩虹暴力终结所律师交流会来啦~!](https://commonlanguage.github.io/TYarchives2017-2/20170802_1同语彩虹暴力终结所律师交流会来啦~!.html)
 149. [20170803_1“女友打我，我也能受到法律保护吗？”镇在答疑](https://commonlanguage.github.io/TYarchives2017-2/20170803_1“女友打我，我也能受到法律保护吗？”镇在答疑.html)
 150. [20170804_1北京活动8月19日一对一法律咨询再次开放名额啦](https://commonlanguage.github.io/TYarchives2017-2/20170804_1北京活动8月19日一对一法律咨询再次开放名额啦.html)
 151. [20170807_1“我们曾经是那么快乐，怎么就变成了这样呢？”｜镇在回信](https://commonlanguage.github.io/TYarchives2017-2/20170807_1“我们曾经是那么快乐，怎么就变成了这样呢？”｜镇在回信.html)
