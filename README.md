@@ -1,4 +1,4 @@
-### 同语公众号备份（2021/10/14）
+### 同语公众号备份（2021/02/14）
 
 ## 2022
 - [20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！](https://CommonLanguage.github.io/TYarchives2022/20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！.html)<br>
@@ -13,7 +13,6 @@
 - [20220115_1女权为纲，女同实践第二次女权主义运动时期的politicallesbian](https://CommonLanguage.github.io/TYarchives2022/20220115_1女权为纲，女同实践第二次女权主义运动时期的politicallesbian.html)<br>
 - [20220113_1权益2021上：牵动你我的LGBT大事件](https://CommonLanguage.github.io/TYarchives2022/20220113_1权益2021上：牵动你我的LGBT大事件.html)<br>
 - [20220112_1改变妇女权益保障法修订草案征求意见！发出你的声音(*原文已被删除，此为备份*)](https://CommonLanguage.github.io/TYarchives2022/20220112_1改变妇女权益保障法修订草案征求意见！发出你的声音.pdf)<br>
-
 - [20220106_1拉拉社区历史大事记在2022回望1995，珍贵图片大盘点！](https://CommonLanguage.github.io/TYarchives2022/20220106_1拉拉社区历史大事记在2022回望1995，珍贵图片大盘点！.html)<br>
 
 ## 2021
