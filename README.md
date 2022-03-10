@@ -1,10 +1,10 @@
 ### 同语公众号备份（2021/02/14）
 
 ## 2022
-- [20220304_12022 同看两会1 送出你自己的多元性别两会建议！](https://CommonLanguage.github.io/TYarchives2022/20220304_12022 同看两会1 送出你自己的多元性别两会建议！.html)<br>
+- [20220304_12022 同看两会1送出你自己的多元性别两会建议！](https://CommonLanguage.github.io/TYarchives2022/20220304_12022 同看两会1送出你自己的多元性别两会建议！.html)<br>
 - [20220228_1反异性恋=搞同性恋？女权主义视角下的政治女同实践下](https://CommonLanguage.github.io/TYarchives2022/20220228_1反异性恋=搞同性恋？女权主义视角下的政治女同实践下.html)<br>
 - [20220221_1在中国，多元性别未成年人过着怎样的生活？最新研究告诉你！](https://CommonLanguage.github.io/TYarchives2022/20220221_1在中国，多元性别未成年人过着怎样的生活？最新研究告诉你！.html)<br>
-- [20220217_1“这人能处，给我讲《老友记》删减片段” 从多元性别角度打开《老友记》](https://CommonLanguage.github.io/TYarchives2022/20220217_1“这人能处，给我讲《老友记》删减片段” 从多元性别角度打开《老友记》.html)<br>
+- [20220217_1“这人能处，给我讲《老友记》删减片段”从多元性别角度打开《老友记》](https://CommonLanguage.github.io/TYarchives2022/20220217_1“这人能处，给我讲《老友记》删减片段”从多元性别角度打开《老友记》.html)<br>
 - [20220216_1“我们”如何走得更远？来自学界女本子researcher的一手经验_口述史系列共学(下)](https://CommonLanguage.github.io/TYarchives2022/20220216_1“我们”如何走得更远？来自学界女本子researcher的一手经验口述史系列共学下.pdf)<br>
 - [20220211_2手把手教你报名CSW66线上论坛](https://CommonLanguage.github.io/TYarchives2022/20220211_2手把手教你报名CSW66线上论坛.html)<br>
 - [20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！](https://CommonLanguage.github.io/TYarchives2022/20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！.html)<br>
