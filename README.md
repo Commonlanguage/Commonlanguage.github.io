@@ -1,8 +1,9 @@
 ### 同语公众号备份（2021/02/14）
 
 ## 2022
+- [20220216_1“我们”如何走得更远？来自学界女本子researcher的一手经验_口述史系列共学(下)](https://CommonLanguage.github.io/TYarchives2022/20220216_1“我们”如何走得更远？来自学界女本子researcher的一手经验口述史系列共学下.pdf)<br>
 - [20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！](https://CommonLanguage.github.io/TYarchives2022/20220211_1在场联合国妇女大会吃瓜占坑指南：参与零门槛，错过等一年！.html)<br>
-- [20220210_1寻找缺失的声音：酷儿女性口述史知多少？口述史系列共学上](https://CommonLanguage.github.io/TYarchives2022/20220210_1寻找缺失的声音：酷儿女性口述史知多少？口述史系列共学上.html)<br>
+- [20220210_1寻找缺失的声音：酷儿女性口述史知多少？口述史系列共学(上)](https://CommonLanguage.github.io/TYarchives2022/20220210_1寻找缺失的声音：酷儿女性口述史知多少？口述史系列共学上.html)<br>
 - [20220127_1Ta山175个国家37年，各国对LGBTI人士更为接纳了吗？](https://CommonLanguage.github.io/TYarchives2022/20220127_1Ta山175个国家37年，各国对LGBTI人士更为接纳了吗？.html)<br>
 - [20220124_1回望世纪初的故事，拉拉们在街头穿上婚纱拉拉社区历史大事记②](https://CommonLanguage.github.io/TYarchives2022/20220124_1回望世纪初的故事，拉拉们在街头穿上婚纱拉拉社区历史大事记②.html)<br>
 - [20220121_1沙龙回顾④同性情侣涉及财产纠纷怎么办？听听法律专家怎么说！](https://CommonLanguage.github.io/TYarchives2022/20220121_1沙龙回顾④同性情侣涉及财产纠纷怎么办？听听法律专家怎么说！.html)<br>
