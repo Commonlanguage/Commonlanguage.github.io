@@ -1,6 +1,29 @@
 ## 🌌同语2.0 （20220308-∞）
-- [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？](https://CommonLanguage.github.io/TYarchives2022/同看两会-校园教育和社会平等.pdf)<br>
-- [20220407_12022同看两会平等就业与生育，又有哪些新提议？](https://CommonLanguage.github.io/TYarchives2022/同看两会-就业平等与生育.pdf)<br>
+- [20220610_1Lesbian的天空丨拉拉社区历史人物故事①](https://CommonLanguage.github.io/TYarchives2022/20220610_1Lesbian的天空丨拉拉社区历史人物故事①.html)<br>
+- [20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录](https://CommonLanguage.github.io/TYarchives2022/20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录.html)<br>
+- [20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会](https://CommonLanguage.github.io/TYarchives2022/20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会.html)<br>
+- [20220525_1酷学速递Vol5什么是酷儿：认同、反叛与自我超越](https://CommonLanguage.github.io/TYarchives2022/20220525_1酷学速递Vol5什么是酷儿：认同、反叛与自我超越.html)<br>
+- [20220523_1活动推荐社交智库：福利加码，浪漫升级，快来邂逅爱情！](https://CommonLanguage.github.io/TYarchives2022/20220523_1活动推荐社交智库：福利加码，浪漫升级，快来邂逅爱情！.html)<br>
+- [20220520_1彩虹加油站少资金？求帮助？性别公益资源5月简报来啦！](https://CommonLanguage.github.io/TYarchives2022/20220520_1彩虹加油站少资金？求帮助？性别公益资源5月简报来啦！.html)<br>
+- [20220519_1招聘同语传播兼职持续开放申请！共创多元性别公益传播，点击查看职位要求：](https://CommonLanguage.github.io/TYarchives2022/20220519_1招聘同语传播兼职持续开放申请！共创多元性别公益传播，点击查看职位要求：.html)<br>
+- [20220518_1和你聊聊这个世界：世界LGBTIQ见闻分享会逍遥法内⑥](https://CommonLanguage.github.io/TYarchives2022/20220518_1和你聊聊这个世界：世界LGBTIQ见闻分享会逍遥法内⑥.html)<br>
+- [20220517_1五一七国际不再恐同恐双恐跨日祝大家酷儿快乐！20道题测一测你掌握多少ntxl知识](https://CommonLanguage.github.io/TYarchives2022/20220517_1五一七国际不再恐同恐双恐跨日祝大家酷儿快乐！20道题测一测你掌握多少ntxl知识.html)<br>
+- [20220513_1不穿女装上班，结果？？？？飞天猫兄弟盟特推](https://CommonLanguage.github.io/TYarchives2022/20220513_1不穿女装上班，结果？？？？飞天猫兄弟盟特推.html)<br>
+- [20220509_1转发517故事征集：作为彩虹一员，你感到最快乐、最骄傲的时刻](https://CommonLanguage.github.io/TYarchives2022/20220509_1转发517故事征集：作为彩虹一员，你感到最快乐、最骄傲的时刻.html)<br>
+- [20220427_1从1959年溯游：我们站在女同性恋书籍的历史河流转发](https://CommonLanguage.github.io/TYarchives2022/20220427_1从1959年溯游：我们站在女同性恋书籍的历史河流转发.html)<br>
+- [20220426_1酷学速递Vol04今天是女同现身日！走进本土女同志实证研究：被排斥与被接纳的人](https://CommonLanguage.github.io/TYarchives2022/20220426_1酷学速递Vol04今天是女同现身日！走进本土女同志实证研究：被排斥与被接纳的人.html)<br>
+- [20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！](https://CommonLanguage.github.io/TYarchives2022/20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！.html)<br>
+- [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？简版](https://CommonLanguage.github.io/TYarchives2022/20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？简版.html)<br>
+- [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-校园教育和社会平等.pdf)<br>
+- [20220411_1为什么选同性匹配模式，还是会刷到直男直女？Tinder人类学告诉你！](https://CommonLanguage.github.io/TYarchives2022/20220411_1为什么选同性匹配模式，还是会刷到直男直女？Tinder人类学告诉你！.html)<br>
+- [20220407_12022同看两会平等就业与生育，又有哪些新提议？简版](https://CommonLanguage.github.io/TYarchives2022/20220407_12022同看两会平等就业与生育，又有哪些新提议？简版.html)<br>
+- [20220407_12022同看两会平等就业与生育，又有哪些新提议？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-就业平等与生育.pdf)<br>
+- [20220406_1活动推荐点亮曙光：第二届跨性别友善医疗讲座](https://CommonLanguage.github.io/TYarchives2022/20220406_1活动推荐点亮曙光：第二届跨性别友善医疗讲座.html)<br>
+- [20220401_1原创研究：2022年关于跨性别者的社会态度调查报告转发](https://CommonLanguage.github.io/TYarchives2022/20220401_1原创研究：2022年关于跨性别者的社会态度调查报告转发.html)<br>
+- [20220331_1Ta山数据报告出炉！中国公众对跨性别者权利怎么看？](https://CommonLanguage.github.io/TYarchives2022/20220331_1Ta山数据报告出炉！中国公众对跨性别者权利怎么看？.html)<br>
+- [20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁](https://CommonLanguage.github.io/TYarchives2022/20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁.html)<br>
+- [20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤](https://CommonLanguage.github.io/TYarchives2022/20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤.html)<br>
+- [20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群](https://CommonLanguage.github.io/TYarchives2022/20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群.html)<br>
 
 ## 🕯️同语1.0 （20160630-20220307）
 同语1.0公众号备份，是**电子墓碑，也是纪念碑**。
