@@ -10,7 +10,6 @@
 - [20220517_1五一七国际不再恐同恐双恐跨日祝大家酷儿快乐！20道题测一测你掌握多少ntxl知识](https://CommonLanguage.github.io/TYarchives2022/20220517_1五一七国际不再恐同恐双恐跨日祝大家酷儿快乐！20道题测一测你掌握多少ntxl知识.html)<br>
 - [20220513_1不穿女装上班，结果？？？？飞天猫兄弟盟特推](https://CommonLanguage.github.io/TYarchives2022/20220513_1不穿女装上班，结果？？？？飞天猫兄弟盟特推.html)<br>
 - [20220509_1转发517故事征集：作为彩虹一员，你感到最快乐、最骄傲的时刻](https://CommonLanguage.github.io/TYarchives2022/20220509_1转发517故事征集：作为彩虹一员，你感到最快乐、最骄傲的时刻.html)<br>
-- [20220427_1从1959年溯游：我们站在女同性恋书籍的历史河流转发](https://CommonLanguage.github.io/TYarchives2022/20220427_1从1959年溯游：我们站在女同性恋书籍的历史河流转发.html)<br>
 - [20220426_1酷学速递Vol04今天是女同现身日！走进本土女同志实证研究：被排斥与被接纳的人](https://CommonLanguage.github.io/TYarchives2022/20220426_1酷学速递Vol04今天是女同现身日！走进本土女同志实证研究：被排斥与被接纳的人.html)<br>
 - [20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！](https://CommonLanguage.github.io/TYarchives2022/20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！.html)<br>
 - [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？简版](https://CommonLanguage.github.io/TYarchives2022/20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？简版.html)<br>
