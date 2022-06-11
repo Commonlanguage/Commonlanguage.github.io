@@ -23,7 +23,7 @@
 - [20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁](https://CommonLanguage.github.io/TYarchives2022/20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁.html)<br>
 - [20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤](https://CommonLanguage.github.io/TYarchives2022/20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤.html)<br>
 - [20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群](https://CommonLanguage.github.io/TYarchives2022/20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群.html)<br>
-- - [test0611](https://CommonLanguage.github.io/TYarchives2022/TYarchives2021/test0611.html)<br>
+- - [test0611](https://CommonLanguage.github.io/TYarchives2022/TYarchives2021/test.html)<br>
 
 ## 🕯️同语1.0 （20160630-20220307）
 同语1.0公众号备份，是**电子墓碑，也是纪念碑**。
