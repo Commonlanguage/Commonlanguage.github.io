@@ -1,5 +1,5 @@
 ## 🌌同语2.0 （20220308-∞）
-20220612 updated (deploying)
+20220612 updated (depolyment_in_progress)
 - [20220610_1Lesbian的天空丨拉拉社区历史人物故事①](https://CommonLanguage.github.io/TYarchives2022-2/20220610_1Lesbian的天空丨拉拉社区历史人物故事①.html)<br>
 - [20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录](https://CommonLanguage.github.io/TYarchives2022-2/20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录.html)<br>
 - [20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会.html)<br>
@@ -16,18 +16,16 @@
 - [20220425_1招聘同语传播兼职与实习生开放申请啦！共创多元性别公益传播，点击查看职位要求：](https://CommonLanguage.github.io/TYarchives2022-2/20220425_1招聘同语传播兼职与实习生开放申请啦！共创多元性别公益传播，点击查看职位要求：.html)<br>
 - [20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！](https://CommonLanguage.github.io/TYarchives2022-2/20220421_1招聘同语招实习生啦！超nice的性别友好环境，超多岗位等你来！.html)<br>
 - [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？](https://CommonLanguage.github.io/TYarchives2022-2/20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？.html)<br>
+- [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-校园教育和社会平等.pdf)<br>
 - [20220411_1酷学速递Vol03为什么选同性匹配模式，还是会刷到直男直女？Tinder人类学告诉你！](https://CommonLanguage.github.io/TYarchives2022-2/20220411_1酷学速递Vol03为什么选同性匹配模式，还是会刷到直男直女？Tinder人类学告诉你！.html)<br>
 - [20220407_12022同看两会平等就业与生育，又有哪些新提议？](https://CommonLanguage.github.io/TYarchives2022-2/20220407_12022同看两会平等就业与生育，又有哪些新提议？.html)<br>
+- [20220407_12022同看两会平等就业与生育，又有哪些新提议？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-就业平等与生育.pdf)<br>
 - [20220406_1活动推荐点亮曙光：第二届跨性别友善医疗讲座](https://CommonLanguage.github.io/TYarchives2022-2/20220406_1活动推荐点亮曙光：第二届跨性别友善医疗讲座.html)<br>
 - [20220401_1原创研究：2022年关于跨性别者的社会态度调查报告转发](https://CommonLanguage.github.io/TYarchives2022-2/20220401_1原创研究：2022年关于跨性别者的社会态度调查报告转发.html)<br>
 - [20220331_1Ta山数据报告出炉！中国公众对跨性别者权利怎么看？](https://CommonLanguage.github.io/TYarchives2022-2/20220331_1Ta山数据报告出炉！中国公众对跨性别者权利怎么看？.html)<br>
 - [20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁](https://CommonLanguage.github.io/TYarchives2022-2/20220330_1酷学速递Vol02国际跨性别现身日：直视跨性别所面临的双重刻板印象威胁.html)<br>
 - [20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤](https://CommonLanguage.github.io/TYarchives2022-2/20220322_1最新研究中国多元性别未成年人的生活与权益全文首发另附沙龙回顾⑤.html)<br>
 - [20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群](https://CommonLanguage.github.io/TYarchives2022-3/20220308_1在场纷争与变革：多元性别议题在联合国妇女大会内附吃瓜群.html)<br>
-
-- [20220414_12022同看两会关于多元性别的校园教育与社会公平，两会说了什么？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-校园教育和社会平等.pdf)<br>
-- [20220407_12022同看两会平等就业与生育，又有哪些新提议？完整版](https://CommonLanguage.github.io/TYarchives2022/同看两会-就业平等与生育.pdf)<br>
-
 
 
 ## 🕯️同语1.0 （20160630-20220307）
