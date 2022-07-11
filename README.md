@@ -1,5 +1,20 @@
 ## 🌌同语2.0 （20220308-∞）
-20220612 updated (depolyment_in_progress)
+20220711 updated (depolyment_in_progress)
+- [20220708_1以同志的多元视角去解读社会｜拉拉社区历史人物故事④](https://CommonLanguage.github.io/TYarchives2022-2/20220708_1以同志的多元视角去解读社会｜拉拉社区历史人物故事④.html)<br>
+- [20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会.html)<br>
+- [20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播](https://CommonLanguage.github.io/TYarchives2022-2/20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播.html)<br>
+- [20220704_1TA字再造丨汉字创作征集](https://CommonLanguage.github.io/TYarchives2022-2/20220704_1TA字再造丨汉字创作征集.html)<br>
+- [20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇](https://CommonLanguage.github.io/TYarchives2022-2/20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇.pdf.pdf)<br>
+- [20220630_1Ta山｜对性取向的法律保护走到了哪里？来看这份世界地图！](https://CommonLanguage.github.io/TYarchives2022-2/20220630_1Ta山｜对性取向的法律保护走到了哪里？来看这份世界地图！.html)<br>
+- [20220628_1彩虹加油站少资金？求帮助？性别公益资源6月简报来啦！](https://CommonLanguage.github.io/TYarchives2022-2/20220628_1彩虹加油站少资金？求帮助？性别公益资源6月简报来啦！.html)<br>
+- [20220624_1酷学速递Vol.07拥抱全面性教育，拥抱被忽略的欲望话语](https://CommonLanguage.github.io/TYarchives2022-2/20220624_1酷学速递Vol.07拥抱全面性教育，拥抱被忽略的欲望话语.html)<br>
+- [20220622_1多元性别群体权益保护，需要联合国SOGI独立专家继续发电！](https://CommonLanguage.github.io/TYarchives2022-2/20220622_1多元性别群体权益保护，需要联合国SOGI独立专家继续发电！.html)<br>
+- [20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机](https://CommonLanguage.github.io/TYarchives2022-2/20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机.pdf.pdf)<br>
+- [20220619_1同志口述史的这些年｜口述史系列共学](https://CommonLanguage.github.io/TYarchives2022-2/20220619_1同志口述史的这些年｜口述史系列共学.html)<br>
+- [20220617_2CLENS六月柏林纪录片展映：彩虹色的她们](https://CommonLanguage.github.io/TYarchives2022-2/20220617_2CLENS六月柏林纪录片展映：彩虹色的她们.html)<br>
+- [20220617_1“我们，遍布各地”丨拉拉社区历史人物故事②](https://CommonLanguage.github.io/TYarchives2022-2/20220617_1“我们，遍布各地”丨拉拉社区历史人物故事②.html)<br>
+- [20220616_1信息征集｜求职时，我也遇到过“恐同”“恐跨”公司](https://CommonLanguage.github.io/TYarchives2022-2/20220616_1信息征集｜求职时，我也遇到过“恐同”“恐跨”公司.html)<br>
+- [20220614_1酷学速递Vol.6“学校对于你来说，是否是一个良好的教育场所？”](https://CommonLanguage.github.io/TYarchives2022-2/20220614_1酷学速递Vol.6“学校对于你来说，是否是一个良好的教育场所？”.html)<br>
 - [20220610_1Lesbian的天空丨拉拉社区历史人物故事①](https://CommonLanguage.github.io/TYarchives2022-2/20220610_1Lesbian的天空丨拉拉社区历史人物故事①.html)<br>
 - [20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录](https://CommonLanguage.github.io/TYarchives2022-2/20220606_1大学四年寝室被我变成拉拉之家丨毕业通讯录的毕业同学录.html)<br>
 - [20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220530_1沙龙回顾⑥和你聊聊这个世界：世界LGBTIQ见闻分享会.html)<br>
