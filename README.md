@@ -1,5 +1,7 @@
 ## 🌌同语2.0 （20220308-∞）
-20220711 updated (depolyment_in_progress)
+欢迎参观并收藏 🙌 （20220714 updated）
+- [20220713_12022年，第五版「多元性别家暴干预服务资源地图」，发布！](https://CommonLanguage.github.io/TYarchives2022-2/20220713_12022年，第五版「多元性别家暴干预服务资源地图」，发布！.html)<br>
+- [20220712_1Ta山跨性别者变更性别标记的难度有多大？这份全球法律报告告诉你！](https://CommonLanguage.github.io/TYarchives2022-2/20220712_1Ta山跨性别者变更性别标记的难度有多大？这份全球法律报告告诉你！.html)<br>
 - [20220708_1以同志的多元视角去解读社会｜拉拉社区历史人物故事④](https://CommonLanguage.github.io/TYarchives2022-2/20220708_1以同志的多元视角去解读社会｜拉拉社区历史人物故事④.html)<br>
 - [20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会.html)<br>
 - [20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播](https://CommonLanguage.github.io/TYarchives2022-2/20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播.html)<br>
