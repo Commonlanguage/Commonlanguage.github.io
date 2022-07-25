@@ -1,5 +1,9 @@
 ## 🌌同语2.0 （20220308-∞）
 欢迎参观并收藏 🙌 （20220716 updated）
+- [20220723_1拉拉出没请注意！二十年来，线下拉拉友好空间经历了怎样的变迁｜姬羊x同语](https://CommonLanguage.github.io/TYarchives2022-2/20220723_1拉拉出没请注意！二十年来，线下拉拉友好空间经历了怎样的变迁｜姬羊x同语.html)<br>
+- [20220722_1性别不是桎梏我们的藩篱｜拉拉社区中的男性身影](https://CommonLanguage.github.io/TYarchives2022-2/20220722_1性别不是桎梏我们的藩篱｜拉拉社区中的男性身影.html)<br>
+- [20220721_1彩虹加油站少资金？求帮助？性别公益资源7月简报来啦！](https://CommonLanguage.github.io/TYarchives2022-2/20220721_1彩虹加油站少资金？求帮助？性别公益资源7月简报来啦！.html)<br>
+- [20220720_1骄傲月主题放映纪录片《我们的故事》+主题分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220720_1骄傲月主题放映纪录片《我们的故事》+主题分享会.html)<br>
 - [20220715_1超越无意识的恐同与歧视丨女权主义者在拉拉社区](https://CommonLanguage.github.io/TYarchives2022-2/20220715_1超越无意识的恐同与歧视丨女权主义者在拉拉社区.html)<br>
 - [20220713_12022年，第五版「多元性别家暴干预服务资源地图」，发布！](https://CommonLanguage.github.io/TYarchives2022-2/20220713_12022年，第五版「多元性别家暴干预服务资源地图」，发布！.html)<br>
 - [20220712_1Ta山跨性别者变更性别标记的难度有多大？这份全球法律报告告诉你！](https://CommonLanguage.github.io/TYarchives2022-2/20220712_1Ta山跨性别者变更性别标记的难度有多大？这份全球法律报告告诉你！.html)<br>
@@ -7,12 +11,12 @@
 - [20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会](https://CommonLanguage.github.io/TYarchives2022-2/20220707_1骄傲月主题放映“跨性一天”ADayofTrans+主题分享会.html)<br>
 - [20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播](https://CommonLanguage.github.io/TYarchives2022-2/20220705_1招聘同语传播兼职持续开放申请！共创多元性别公益传播.html)<br>
 - [20220704_1TA字再造丨汉字创作征集](https://CommonLanguage.github.io/TYarchives2022-2/20220704_1TA字再造丨汉字创作征集.html)<br>
-- [20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇](https://CommonLanguage.github.io/TYarchives2022-2/20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇.pdf.pdf)<br>
+- [20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇](https://CommonLanguage.github.io/TYarchives2022-2/20220701_1我们曾经、正在、或将来想要和女生在一起丨拉拉社区历史人物故事·同语篇.pdf)<br>
 - [20220630_1Ta山｜对性取向的法律保护走到了哪里？来看这份世界地图！](https://CommonLanguage.github.io/TYarchives2022-2/20220630_1Ta山｜对性取向的法律保护走到了哪里？来看这份世界地图！.html)<br>
 - [20220628_1彩虹加油站少资金？求帮助？性别公益资源6月简报来啦！](https://CommonLanguage.github.io/TYarchives2022-2/20220628_1彩虹加油站少资金？求帮助？性别公益资源6月简报来啦！.html)<br>
 - [20220624_1酷学速递Vol.07拥抱全面性教育，拥抱被忽略的欲望话语](https://CommonLanguage.github.io/TYarchives2022-2/20220624_1酷学速递Vol.07拥抱全面性教育，拥抱被忽略的欲望话语.html)<br>
 - [20220622_1多元性别群体权益保护，需要联合国SOGI独立专家继续发电！](https://CommonLanguage.github.io/TYarchives2022-2/20220622_1多元性别群体权益保护，需要联合国SOGI独立专家继续发电！.html)<br>
-- [20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机](https://CommonLanguage.github.io/TYarchives2022-2/20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机.pdf.pdf)<br>
+- [20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机](https://CommonLanguage.github.io/TYarchives2022-2/20220621_1在场饭碗不保？联合国SOGI独立专家或将面临“下岗”危机.pdf)<br>
 - [20220619_1同志口述史的这些年｜口述史系列共学](https://CommonLanguage.github.io/TYarchives2022-2/20220619_1同志口述史的这些年｜口述史系列共学.html)<br>
 - [20220617_2CLENS六月柏林纪录片展映：彩虹色的她们](https://CommonLanguage.github.io/TYarchives2022-2/20220617_2CLENS六月柏林纪录片展映：彩虹色的她们.html)<br>
 - [20220617_1“我们，遍布各地”丨拉拉社区历史人物故事②](https://CommonLanguage.github.io/TYarchives2022-2/20220617_1“我们，遍布各地”丨拉拉社区历史人物故事②.html)<br>
