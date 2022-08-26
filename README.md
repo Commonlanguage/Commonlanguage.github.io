@@ -1,6 +1,8 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20220825更新）
+欢迎参观并收藏 🙌 （20220826更新）
 
+- [20220818_1酷学速递Vol.08｜台上酷儿一分钟，台下“直女”十年功](https://CommonLanguage.github.io/TYarchives2022-2/20220818_1酷学速递Vol.08｜台上酷儿一分钟，台下“直女”十年功.html)<br>
+- [20220816_1嗑学姬本点｜女团选秀还是CP恋综？打开《浪姐3》的正确方式](https://CommonLanguage.github.io/TYarchives2022-2/20220816_1嗑学姬本点｜女团选秀还是CP恋综？打开《浪姐3》的正确方式.html)<br>
 - [20220814_1转载大陆地区双泛性恋社群生存状况调研问卷](https://CommonLanguage.github.io/TYarchives2022-2/20220814_1转载大陆地区双泛性恋社群生存状况调研问卷.html)<br>
 - [20220812_1在场联合国SOGI独立专家成功续任！中国的态度是？](https://CommonLanguage.github.io/TYarchives2022-2/20220812_1在场联合国SOGI独立专家成功续任！中国的态度是？.html)<br>
 - [20220806_2拉拉出没请注意！二十年来，线下拉拉友好空间经历了怎样的变迁｜姬羊x同语](https://CommonLanguage.github.io/TYarchives2022-2/20220806_2拉拉出没请注意！二十年来，线下拉拉友好空间经历了怎样的变迁｜姬羊x同语.html)<br>
