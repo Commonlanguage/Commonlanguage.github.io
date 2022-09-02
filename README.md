@@ -1,6 +1,9 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20220826更新）
+欢迎参观并收藏 🙌 （20220902更新）
 
+- [20220831_1冲破锁链，拥抱新生｜『知和社』2022Fall招新](https://CommonLanguage.github.io/TYarchives2022-2/20220831_1冲破锁链，拥抱新生｜『知和社』2022Fall招新.html)<br>
+- [20220830_1酷学速递Vol.09｜橱柜里的拟剧：形婚、同妻和彩虹家长](https://CommonLanguage.github.io/TYarchives2022-2/20220830_1酷学速递Vol.09｜橱柜里的拟剧：形婚、同妻和彩虹家长.html)<br>
+- [20220826_1彩虹加油站少资金？求帮助？性别公益资源8月简报来啦！](https://CommonLanguage.github.io/TYarchives2022-2/20220826_1彩虹加油站少资金？求帮助？性别公益资源8月简报来啦！.html)<br>
 - [20220818_1酷学速递Vol.08｜台上酷儿一分钟，台下“直女”十年功](https://CommonLanguage.github.io/TYarchives2022-2/20220818_1酷学速递Vol.08｜台上酷儿一分钟，台下“直女”十年功.html)<br>
 - [20220816_1嗑学姬本点｜女团选秀还是CP恋综？打开《浪姐3》的正确方式](https://CommonLanguage.github.io/TYarchives2022-2/20220816_1嗑学姬本点｜女团选秀还是CP恋综？打开《浪姐3》的正确方式.html)<br>
 - [20220814_1转载大陆地区双泛性恋社群生存状况调研问卷](https://CommonLanguage.github.io/TYarchives2022-2/20220814_1转载大陆地区双泛性恋社群生存状况调研问卷.html)<br>
