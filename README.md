@@ -1,5 +1,7 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20220925更新）
+欢迎参观并收藏 🙌 （20220930更新）
+- [20220929_1成为性别研究学者，每一次发表都可能意味着一次出柜](https://CommonLanguage.github.io/TYarchives2022-2/20220929_1成为性别研究学者，每一次发表都可能意味着一次出柜.html)<br>
+- [20220927_1“99公益日”之后，我还能为性别公益发展做些什么？](https://CommonLanguage.github.io/TYarchives2022-2/20220927_1“99公益日”之后，我还能为性别公益发展做些什么？.html)<br>
 - [20220923_1看见双性恋日：BitheWay,BiYourSide｜双的游乐园x老双家传声筒](https://CommonLanguage.github.io/TYarchives2022-2/20220923_1看见双性恋日：BitheWay,BiYourSide｜双的游乐园x老双家传声筒.html)<br>
 - [20220908_1“理想灯塔”还是“天坑专业”？留学读性别研究有什么出路](https://CommonLanguage.github.io/TYarchives2022-2/20220908_1“理想灯塔”还是“天坑专业”？留学读性别研究有什么出路.html)<br>
 - [20220906_1招聘同语传播兼职与实习生岗位等你来投！找到多元性别与公益传播的交织点](https://CommonLanguage.github.io/TYarchives2022-2/20220906_1招聘同语传播兼职与实习生岗位等你来投！找到多元性别与公益传播的交织点.html)<br>
