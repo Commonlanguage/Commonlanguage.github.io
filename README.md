@@ -1,5 +1,10 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20220930更新）
+欢迎参观并收藏 🙌 （20221101更新）
+- [20221031_1这个万圣节，我们推荐这些没有“直男凝视”的酷儿恐怖电影](https://CommonLanguage.github.io/TYarchives2022-2/20221031_1这个万圣节，我们推荐这些没有“直男凝视”的酷儿恐怖电影.html)<br>
+- [20221028_1“爱姐”、“婉拒铁T”、学历崇拜…哪些拉拉社群内部梗让你无言以对？｜姬姬喳喳②](https://CommonLanguage.github.io/TYarchives2022-2/20221028_1“爱姐”、“婉拒铁T”、学历崇拜…哪些拉拉社群内部梗让你无言以对？｜姬姬喳喳②.html)<br>
+- [20221026_1Ta山｜法律应如何防治基于多元性别的校园欺凌？](https://CommonLanguage.github.io/TYarchives2022-2/20221026_1Ta山｜法律应如何防治基于多元性别的校园欺凌？.html)<br>
+- [20221024_1Ta山｜学校为何不能阻止跨性别学生按性别认同使用卫生间？](https://CommonLanguage.github.io/TYarchives2022-2/20221024_1Ta山｜学校为何不能阻止跨性别学生按性别认同使用卫生间？.html)<br>
+- [20221015_1当人们提及拉拉时，哪些说法、哪些形容、哪些论述会让你血压飙升？｜姬姬喳喳①](https://CommonLanguage.github.io/TYarchives2022-2/20221015_1当人们提及拉拉时，哪些说法、哪些形容、哪些论述会让你血压飙升？｜姬姬喳喳①.html)<br>
 - [20220929_1成为性别研究学者，每一次发表都可能意味着一次出柜](https://CommonLanguage.github.io/TYarchives2022-2/20220929_1成为性别研究学者，每一次发表都可能意味着一次出柜.html)<br>
 - [20220927_1“99公益日”之后，我还能为性别公益发展做些什么？](https://CommonLanguage.github.io/TYarchives2022-2/20220927_1“99公益日”之后，我还能为性别公益发展做些什么？.html)<br>
 - [20220923_1看见双性恋日：BitheWay,BiYourSide｜双的游乐园x老双家传声筒](https://CommonLanguage.github.io/TYarchives2022-2/20220923_1看见双性恋日：BitheWay,BiYourSide｜双的游乐园x老双家传声筒.html)<br>
@@ -90,8 +95,6 @@
 - [20220113_1权益2021上：牵动你我的LGBT大事件](https://CommonLanguage.github.io/TYarchives2022/20220113_1权益2021上：牵动你我的LGBT大事件.html)<br>
 - [20220112_1改变妇女权益保障法修订草案征求意见！发出你的声音(*原文已被删除，此为备份*)](https://CommonLanguage.github.io/TYarchives2022/20220112_1改变妇女权益保障法修订草案征求意见！发出你的声音.pdf)<br>
 - [20220106_1拉拉社区历史大事记在2022回望1995，珍贵图片大盘点！](https://CommonLanguage.github.io/TYarchives2022/20220106_1拉拉社区历史大事记在2022回望1995，珍贵图片大盘点！.html)<br>
-- [test1](https://CommonLanguage.github.io/TYarchives2022/test.html)<br>
-- [test2](https://CommonLanguage.github.io/TYarchives2022/20211025_1从霍尊到孟美岐，娱乐圈的瓜都靠聊天记录锤，法律问题怎么办？.html)<br>
 
 ### 2021
 - [20211231_1一起酷读国家人权计划下](https://CommonLanguage.github.io/TYarchives2021/20211231_1一起酷读国家人权计划下.html)<br>
