@@ -1,5 +1,21 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20221118更新）
+欢迎参观并收藏 🙌 （20221226更新）
+
+- [20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况](https://CommonLanguage.github.io/TYarchives2022-2/20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况.html)<br>
+- [20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费](https://CommonLanguage.github.io/TYarchives2022-2/20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费.html)<br>
+- [20221216_1就要到处说！从杂志到播客，酷儿女性的媒体实践与现身｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221216_1就要到处说！从杂志到播客，酷儿女性的媒体实践与现身｜姬羊x同语③.html)<br>
+- [20221214_1Ta山｜脆弱加剧：新冠疫情如何影响LGBTIQ？!](https://CommonLanguage.github.io/TYarchives2022-2/20221214_1Ta山｜脆弱加剧：新冠疫情如何影响LGBTIQ？!.html)<br>
+- [20221213_1论坛回顾｜撑起公益“半边天”——以社会性别视角助推妇女组织与基金会发展](https://CommonLanguage.github.io/TYarchives2022-2/20221213_1论坛回顾｜撑起公益“半边天”——以社会性别视角助推妇女组织与基金会发展.html)<br>
+- [20221212_1创作分享｜《Loop》遥控器：“她们作为女性对这个世界发出的质问将从我的喉咙里冲出来”](https://CommonLanguage.github.io/TYarchives2022-2/20221212_1创作分享｜《Loop》遥控器：“她们作为女性对这个世界发出的质问将从我的喉咙里冲出来”.html)<br>
+- [20221208_1“我们现在做的每一件事，都有意义”——与「姬羊同笼」的快问快答｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221208_1“我们现在做的每一件事，都有意义”——与「姬羊同笼」的快问快答｜姬羊x同语③.html)<br>
+- [20221206_1福利丨@性别友善教师：同语多元性别系列课件开放免费申领啦！](https://CommonLanguage.github.io/TYarchives2022-2/20221206_1福利丨@性别友善教师：同语多元性别系列课件开放免费申领啦！.html)<br>
+- [20221205_1“我们期待基于互相理解的联合，而非取消差异的团结”——与《酷拉时报》的快问快答｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221205_1“我们期待基于互相理解的联合，而非取消差异的团结”——与《酷拉时报》的快问快答｜姬羊x同语③.html)<br>
+- [20221202_1酷学会压轴阵容公开！抓住成为大众学术评审的最后机会～](https://CommonLanguage.github.io/TYarchives2022-2/20221202_1酷学会压轴阵容公开！抓住成为大众学术评审的最后机会～.html)<br>
+- [20221130_1酷读法律｜用多元性别视角打开最新修订版《妇女权益保障法》](https://CommonLanguage.github.io/TYarchives2022-2/20221130_1酷读法律｜用多元性别视角打开最新修订版《妇女权益保障法》.html)<br>
+- [20221122_1“说真诚的话，有创意的话”——与《les+》的快问快答｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221122_1“说真诚的话，有创意的话”——与《les+》的快问快答｜姬羊x同语③.html)<br>
+- [20221121_1活动预告撑起公益“半边天”——如何以社会性别视角助推妇女组织与基金会发展？](https://CommonLanguage.github.io/TYarchives2022-2/20221121_1活动预告撑起公益“半边天”——如何以社会性别视角助推妇女组织与基金会发展？.html)<br>
+- [20221120_1Ta山｜电击、驱魔、化学阉割…面对“扭转治疗”，世界各国如何做？](https://CommonLanguage.github.io/TYarchives2022-2/20221120_1Ta山｜电击、驱魔、化学阉割…面对“扭转治疗”，世界各国如何做？.html)<br>
+- [20221119_1工作坊招募｜《鬼针草》阿民：大家是从何时开始患上了厌女症](https://CommonLanguage.github.io/TYarchives2022-2/20221119_1工作坊招募｜《鬼针草》阿民：大家是从何时开始患上了厌女症.html)<br>
 - [20221118_1酷学会学术公演首发阵容公开！即刻报名，为你欣赏的研究投票吧！](https://CommonLanguage.github.io/TYarchives2022-2/20221118_1酷学会学术公演首发阵容公开！即刻报名，为你欣赏的研究投票吧！.html)<br>
 - [20221105_1废墟之上的爱意：读《去日落处》](https://CommonLanguage.github.io/TYarchives2022-2/20221105_1废墟之上的爱意：读《去日落处》.html)<br>
 - [20221103_1酷学会征稿通道开启啦！在边缘中心呼唤野生的你——](https://CommonLanguage.github.io/TYarchives2022-2/20221103_1酷学会征稿通道开启啦！在边缘中心呼唤野生的你——.html)<br>
