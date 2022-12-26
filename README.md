@@ -4,7 +4,7 @@
 - [20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况](https://CommonLanguage.github.io/TYarchives2022-2/20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况.html)<br>
 - [20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费](https://CommonLanguage.github.io/TYarchives2022-2/20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费.html)<br>
 - [20221216_1就要到处说！从杂志到播客，酷儿女性的媒体实践与现身｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221216_1就要到处说！从杂志到播客，酷儿女性的媒体实践与现身｜姬羊x同语③.html)<br>
-- [20221214_1Ta山｜脆弱加剧：新冠疫情如何影响LGBTIQ？!](https://CommonLanguage.github.io/TYarchives2022-2/20221214_1Ta山｜脆弱加剧：新冠疫情如何影响LGBTIQ？!.html)<br>
+- [20221214_1Ta山｜脆弱加剧：新冠疫情如何影响LGBTIQ？!](https://CommonLanguage.github.io/TYarchives2022-2/脆弱加剧.html)<br>
 - [20221213_1论坛回顾｜撑起公益“半边天”——以社会性别视角助推妇女组织与基金会发展](https://CommonLanguage.github.io/TYarchives2022-2/20221213_1论坛回顾｜撑起公益“半边天”——以社会性别视角助推妇女组织与基金会发展.html)<br>
 - [20221212_1创作分享｜《Loop》遥控器：“她们作为女性对这个世界发出的质问将从我的喉咙里冲出来”](https://CommonLanguage.github.io/TYarchives2022-2/20221212_1创作分享｜《Loop》遥控器：“她们作为女性对这个世界发出的质问将从我的喉咙里冲出来”.html)<br>
 - [20221208_1“我们现在做的每一件事，都有意义”——与「姬羊同笼」的快问快答｜姬羊x同语③](https://CommonLanguage.github.io/TYarchives2022-2/20221208_1“我们现在做的每一件事，都有意义”——与「姬羊同笼」的快问快答｜姬羊x同语③.html)<br>
