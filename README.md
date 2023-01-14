@@ -6,7 +6,7 @@
 - [20230106_1与编辑部面对面｜填写反馈，让同语变得更好](https://CommonLanguage.github.io/TYarchives2023/20230106_1与编辑部面对面｜填写反馈，让同语变得更好.html)<br>
 
 
-[//]: (- [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br>)
+[//]: - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br>
 
 ### 2022
 
