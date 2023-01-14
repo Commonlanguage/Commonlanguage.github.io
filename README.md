@@ -7,7 +7,6 @@
 - [20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？](https://CommonLanguage.github.io/TYarchives2023/20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？.html)<br>
 - [20230106_1与编辑部面对面｜填写反馈，让同语变得更好](https://CommonLanguage.github.io/TYarchives2023/20230106_1与编辑部面对面｜填写反馈，让同语变得更好.html)<br>
 
-
 ### 2022
 
 - [20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况](https://CommonLanguage.github.io/TYarchives2022-2/20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况.html)<br>
