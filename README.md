@@ -1,5 +1,5 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20230114更新）
+欢迎参观并收藏 🙌 （2023/01/14更新）
 
 <!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 
