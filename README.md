@@ -1,5 +1,12 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （20221226更新）
+欢迎参观并收藏 🙌 （20230114更新）
+
+### 2023
+- [20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？](https://CommonLanguage.github.io/TYarchives2023/20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？.html)<br>
+- [20230106_1与编辑部面对面｜填写反馈，让同语变得更好](https://CommonLanguage.github.io/TYarchives2023/20230106_1与编辑部面对面｜填写反馈，让同语变得更好.html)<br>
+//- [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br>
+
+### 2022
 
 - [20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况](https://CommonLanguage.github.io/TYarchives2022-2/20221223_1彩虹加油站“女性主义”视野下的全球性别公益资助现况.html)<br>
 - [20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费](https://CommonLanguage.github.io/TYarchives2022-2/20221221_1酷学速递Vol.10lesbian的欲望景观：媒介再现与色情消费.html)<br>
@@ -93,7 +100,6 @@
 ## 🕯️同语1.0 （20160630-20220307）
 同语1.0公众号备份，是**电子墓碑，也是纪念碑**。🕯️🕯️🕯️
 
-### 2022
 - [20220304_12022同看两会①送出你自己的多元性别两会建议！](https://CommonLanguage.github.io/TYarchives2022/20220304_12022同看两会1送出你自己的多元性别两会建议！.pdf)<br>
 - [20220228_1反异性恋=搞同性恋？女权主义视角下的政治女同实践下](https://CommonLanguage.github.io/TYarchives2022/20220228_1反异性恋=搞同性恋？女权主义视角下的政治女同实践下.pdf)<br>
 - [20220221_1在中国，多元性别未成年人过着怎样的生活？最新研究告诉你！](https://CommonLanguage.github.io/TYarchives2022/20220221_1在中国，多元性别未成年人过着怎样的生活？最新研究告诉你！.pdf)<br>
