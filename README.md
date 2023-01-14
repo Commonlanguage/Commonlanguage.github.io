@@ -1,14 +1,12 @@
 ## 🌌同语2.0 （20220308-∞）
 欢迎参观并收藏 🙌 （20230114更新）
 
+<!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
+
 ### 2023
 - [20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？](https://CommonLanguage.github.io/TYarchives2023/20230113_1年末知识竞赛即刻开启！谁是2022年同语的忠实读者？.html)<br>
 - [20230106_1与编辑部面对面｜填写反馈，让同语变得更好](https://CommonLanguage.github.io/TYarchives2023/20230106_1与编辑部面对面｜填写反馈，让同语变得更好.html)<br>
 
-
-[//]: - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br>
-
-<!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 
 ### 2022
 
