@@ -1,17 +1,16 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （2023/03/11更新）
-testing
+欢迎参观并收藏 🙌 （2023/03/12更新）
 
-<!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
+<!-- - [x](https://CommonLanguage.github.io/TYarchives2023-2/x.html)<br> -->
 
 ### 2023
-- [20230310_1同看两会·先行篇｜今年两会，如何发出多元性别好声音？](https://CommonLanguage.github.io/TYarchives2023/20230310.jpg)<br>
-- [20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④](https://CommonLanguage.github.io/TYarchives2023/20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④.html)<br>
-- [20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示](https://CommonLanguage.github.io/TYarchives2023/20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示.html)<br>
-- [20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载](https://CommonLanguage.github.io/TYarchives2023/20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载.html)<br>
-- [20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！](https://CommonLanguage.github.io/TYarchives2023/20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！.html)<br>
-- [20230223_1彩虹加油站少资金？求帮助？性别公益资源2月简报来啦！](https://CommonLanguage.github.io/TYarchives2023/20230223_1彩虹加油站少资金？求帮助？性别公益资源2月简报来啦！.html)<br>
-- [20230220_1分享一个带薪听姬圈吐槽大会的机会同语传播兼职开放招聘啦！](https://CommonLanguage.github.io/TYarchives2023/20230220_1分享一个带薪听姬圈吐槽大会的机会同语传播兼职开放招聘啦！.html)<br>
+- [20230310_1同看两会·先行篇｜今年两会，如何发出多元性别好声音？](https://CommonLanguage.github.io/TYarchives2023-2/20230310_1同看两会·先行篇｜今年两会，如何发出多元性别好声音？.jpg)<br>
+- [20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④](https://CommonLanguage.github.io/TYarchives2023-2/20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④.html)<br>
+- [20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示](https://CommonLanguage.github.io/TYarchives2023-2/20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示.html)<br>
+- [20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载](https://CommonLanguage.github.io/TYarchives2023-2/20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载.html)<br>
+- [20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！](https://CommonLanguage.github.io/TYarchives2023-2/20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！.html)<br>
+- [20230223_1彩虹加油站少资金？求帮助？性别公益资源2月简报来啦！](https://CommonLanguage.github.io/TYarchives2023-2/20230223_1彩虹加油站少资金？求帮助？性别公益资源2月简报来啦！.html)<br>
+- [20230220_1分享一个带薪听姬圈吐槽大会的机会同语传播兼职开放招聘啦！](https://CommonLanguage.github.io/TYarchives2023-2/20230220_1分享一个带薪听姬圈吐槽大会的机会同语传播兼职开放招聘啦！.html)<br>
 - [20230216_1情人节酷儿特辑｜拉拉情侣五问：希望我们是爱人，是好友，也是战友](https://CommonLanguage.github.io/TYarchives2023/20230216_1情人节酷儿特辑｜拉拉情侣五问：希望我们是爱人，是好友，也是战友.html)<br>
 - [20230214_1酷学速递Vol.11｜拉拉“床死”了？不确定，再看看](https://CommonLanguage.github.io/TYarchives2023/20230214_1酷学速递Vol.11｜拉拉“床死”了？不确定，再看看.html)<br>
 - [20230210_1一个术前跨男在港胜诉，可以改证了！｜转载](https://CommonLanguage.github.io/TYarchives2023/20230210_1一个术前跨男在港胜诉，可以改证了！｜转载.html)<br>
