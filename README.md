@@ -6,8 +6,8 @@
 ### 2023
 
 - [20230310_1同看两会·先行篇｜今年两会，如何发出多元性别好声音？](https://CommonLanguage.github.io/TYarchives2023/20230310_1同看两会·先行篇｜今年两会，如何发出多元性别好声音？.jpg)<br>
-- [test](https://Commonlanguage.github.io/TYarchives2023/20230309_1防失联：一键三连关注同语社交媒体平台分身.html)<br>
-- [20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④](https://CommonLanguage.github.io/TYarchives2023/20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④.html)<br>
+- [20230309_1防失联：一键三连关注同语社交媒体平台分身](https://Commonlanguage.github.io/TYarchives2023/防走丢.jpeg)<br>
+- [20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④](https://CommonLanguage.github.io/TYarchives2023/20230308_1拉拉电影中的床戏：酷儿情欲或是男性凝视？姬姬喳喳④.html.html)<br>
 - [20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示](https://CommonLanguage.github.io/TYarchives2023/20230307_1本土酷儿最感兴趣的性别研究是哪般？第二届青言酷学会我最欣赏的学术公演榜单公示.html)<br>
 - [20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载](https://CommonLanguage.github.io/TYarchives2023/20230303_1信息征集！性多元友善心理咨询师、医疗从业者资源地图20转载.html)<br>
 - [20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！](https://CommonLanguage.github.io/TYarchives2023/20230302_1国内首部跨性别兄弟群像纪录片逆向奔跑的兄弟先行预告，发布！.html)<br>
