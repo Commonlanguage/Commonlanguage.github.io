@@ -5,7 +5,7 @@
 
 ### 2023
 - [20230523_1彩虹加油站｜少资金？求帮助？性别公益资源5月简报来啦！](https://CommonLanguage.github.io/TYarchives2023/20230523_1彩虹加油站｜少资金？求帮助？性别公益资源5月简报来啦！.jpeg)<br>
-- [20230520_1姬圈投稿Bot 101！谁是你心目中的拉拉之声？｜姬姬喳喳⑤](https://CommonLanguage.github.io/TYarchives2023/20230520_1姬圈投稿Bot 101！谁是你心目中的拉拉之声？｜姬姬喳喳⑤.pdf)<br>
+- [20230520_1姬圈投稿Bot 101！谁是你心目中的拉拉之声？｜姬姬喳喳⑤](https://CommonLanguage.github.io/TYarchives2023/20230520_1姬圈投稿Bot101！谁是你心目中的拉拉之声？｜姬姬喳喳⑤.pdf)<br>
 - [20230519_1过滤还是保护？男同群体关于知乎算法的民间理论｜酷学研究⑦](https://CommonLanguage.github.io/TYarchives2023/20230519_1过滤还是保护？男同群体关于知乎算法的民间理论｜酷学研究⑦.pdf)<br>
 - [20230514_1青言沙龙①｜你的孩子不是你的孩子？同性伴侣亲子关系认定的法律困境](https://CommonLanguage.github.io/TYarchives2023/20230514_1青言沙龙①｜你的孩子不是你的孩子？同性伴侣亲子关系认定的法律困境.html)<br>
 - [20230426_2中国多元性别女性的生活与权益研究报告全文即将发布，敬请期待！](https://CommonLanguage.github.io/TYarchives2023/20230426_2中国多元性别女性的生活与权益研究报告全文即将发布，敬请期待！.jpeg)<br>
