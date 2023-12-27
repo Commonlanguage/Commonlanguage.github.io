@@ -1,9 +1,13 @@
 ## 🌌同语2.0 （20220308-∞）
-欢迎参观并收藏 🙌 （2023/05/31🌈更新）
+欢迎参观并收藏 🙌 （2023/12/27🌈更新）
 
 <!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 
 ### 2023
+- [20231213_1苦痛与团结：不稳定医学下的本土跨性别认同酷学研究⑨](https://CommonLanguage.github.io/TYarchives2023/20231213_1苦痛与团结：不稳定医学下的本土跨性别认同酷学研究⑨.html)<br>
+- [20231206_3惶惑之欲：民国时期的校园同性爱世界酷学研究⑧](https://CommonLanguage.github.io/TYarchives2023/20231206_3惶惑之欲：民国时期的校园同性爱世界酷学研究⑧.html)<br>
+- [20231130_2过滤还是保护？男同群体关于知乎算法的民间理论酷学研究⑦](https://CommonLanguage.github.io/TYarchives2023/20231130_2过滤还是保护？男同群体关于知乎算法的民间理论酷学研究⑦.html)<br>
+- [20231121_1跨性别纪念日FTM手术史的当下、过去、未来](https://CommonLanguage.github.io/TYarchives2023/20231121_1跨性别纪念日FTM手术史的当下、过去、未来.html)<br>
 - [20230901酷学速递vol.12丨当拉拉说“我不混圈”时，到底在说什么？](https://CommonLanguage.github.io/TYarchives2023/20230901酷学速递vol.12丨当拉拉说“我不混圈”时，到底在说什么？.pdf)<br>
 - [20230720彩虹加油站丨少资金？求帮助？性别公益资源7月简报来啦！](https://CommonLanguage.github.io/TYarchives2023/20230720彩虹加油站丨少资金？求帮助？性别公益资源7月简报来啦！.pdf)<br>
 - [20230711Ta山｜潮涨潮落：世界各国，“单身”女性生育权走到哪一步？](https://CommonLanguage.github.io/TYarchives2023/20230711Ta山｜潮涨潮落：世界各国，“单身”女性生育权走到哪一步？.pdf)<br>
