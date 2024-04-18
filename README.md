@@ -3,17 +3,17 @@
 
 <!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 ### 2024
-- [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2023/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
-- [20240403_1《紫颜色》：自从有了她，我又开始重新生活了](https://CommonLanguage.github.io/TYarchives2023/20240403_1《紫颜色》：自从有了她，我又开始重新生活了.html)<br>
-- [20240328_2转载人类性学来了！](https://CommonLanguage.github.io/TYarchives2023/20240328_2转载人类性学来了！.html)<br>
-- [20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！](https://CommonLanguage.github.io/TYarchives2023/20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！.html)<br>
-- [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2023/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
-- [20240315_1《可怜的东西》：没有能让所有人满意的女性主义电影](https://CommonLanguage.github.io/TYarchives2023/20240315_1《可怜的东西》：没有能让所有人满意的女性主义电影.pdf)<br>
-- [20240311_1从黑神话悟空聊起：性别棱镜下的电子游戏发展史](https://CommonLanguage.github.io/TYarchives2023/20240311_1从黑神话悟空聊起：性别棱镜下的电子游戏发展史.html)<br>
+- [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2024/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
+- [20240403_1《紫颜色》：自从有了她，我又开始重新生活了](https://CommonLanguage.github.io/TYarchives2024/20240403_1《紫颜色》：自从有了她，我又开始重新生活了.html)<br>
+- [20240328_2转载人类性学来了！](https://CommonLanguage.github.io/TYarchives2024/20240328_2转载人类性学来了！.html)<br>
+- [20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！](https://CommonLanguage.github.io/TYarchives2024/20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！.html)<br>
+- [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2024/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
+- [20240315_1《可怜的东西》：没有能让所有人满意的女性主义电影](https://CommonLanguage.github.io/TYarchives2024/20240315_1《可怜的东西》：没有能让所有人满意的女性主义电影.pdf)<br>
+- [20240311_1从黑神话悟空聊起：性别棱镜下的电子游戏发展史](https://CommonLanguage.github.io/TYarchives2024/20240311_1从黑神话悟空聊起：性别棱镜下的电子游戏发展史.html)<br>
 - [20240227_1实习机会来啦！支持性与性别组织可持续发展](https://CommonLanguage.github.io/TYarchives2024/20240227_1实习机会来啦！支持性与性别组织可持续发展.html)<br>
-- [20240207_12023，你的酷儿年度词汇是——抽签.gif](https://CommonLanguage.github.io/TYarchives2023/20240207_12023，你的酷儿年度词汇是——抽签.gif)<br>
-- [20240207_12023，你的酷儿年度词汇是——](https://CommonLanguage.github.io/TYarchives2023/20240207_12023，你的酷儿年度词汇是——.pdf)<br>
-- [20240124_1姬圈投稿Bot101！谁是你心目中的拉拉之声？姬姬喳喳⑤](https://CommonLanguage.github.io/TYarchives2023/20240124_1姬圈投稿Bot101！谁是你心目中的拉拉之声？姬姬喳喳⑤.html)<br>
+- [20240207_12023，你的酷儿年度词汇是——抽签.gif](https://CommonLanguage.github.io/TYarchives2024/20240207_12023，你的酷儿年度词汇是——抽签.gif)<br>
+- [20240207_12023，你的酷儿年度词汇是——](https://CommonLanguage.github.io/TYarchives2024/20240207_12023，你的酷儿年度词汇是——.pdf)<br>
+- [20240124_1姬圈投稿Bot101！谁是你心目中的拉拉之声？姬姬喳喳⑤](https://CommonLanguage.github.io/TYarchives2024/20240124_1姬圈投稿Bot101！谁是你心目中的拉拉之声？姬姬喳喳⑤.html)<br>
 
 ### 2023
 - [20231213_1苦痛与团结：不稳定医学下的本土跨性别认同酷学研究⑨](https://CommonLanguage.github.io/TYarchives2023/20231213_1苦痛与团结：不稳定医学下的本土跨性别认同酷学研究⑨.html)<br>
