@@ -1,0 +1,703 @@
+<!DOCTYPE html>
+<html class="">
+<head>
+<meta content="true" name="wechat-enable-text-zoom-em"/>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+<meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+<meta content="light dark" name="color-scheme"/>
+<meta content="width=device-width,initial-scale=1.0,maximum-scale=1.0,user-scalable=0,viewport-fit=cover" name="viewport"/>
+<link href="http://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" rel="shortcut icon" reportloaderror="" type="image/x-icon"/>
+<link color="#4C4C4C" href="http://res.wx.qq.com/a/wx_fed/assets/res/MjliNWVm.svg" rel="mask-icon" reportloaderror=""/>
+<link href="http://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" rel="apple-touch-icon-precomposed" reportloaderror=""/>
+<meta content="yes" name="apple-mobile-web-app-capable"/>
+<meta content="black" name="apple-mobile-web-app-status-bar-style"/>
+<meta content="telephone=no" name="format-detection"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="strict-origin-when-cross-origin" name="referrer"/>
+<script nonce="" reportloaderror="">try{document.getElementsByTagName('html').item(0).style.webkitTextSizeAdjust=JSON.parse(window.__wxWebEnv.getEnv()).fontScale+'%'}catch(e){}</script>
+<script nonce="" reportloaderror="" type="text/javascript">
+  window.logs = { pagetime: {} };
+  window.logs.pagetime['html_begin'] = (+new Date());
+  window.LANG = "zh_CN";
+</script>
+<script nonce="" reportloaderror="" type="text/javascript">
+  
+  
+  var WX_BJ_REPORT = window.WX_BJ_REPORT || {};
+  (function(_) {
+    if (_.BadJs) {
+      return;
+    }
+   
+    var BADJS_WIN_ERR = 'BadjsWindowError';
+    var extend = function(source, destination) {
+      for (var property in destination) {
+        source[property] = destination[property]
+      }
+      return source
+    }
+    
+    _.BadJs = {
+      uin: 0,
+      mid: "",
+      view: "wap",
+      _cache: {},
+      _info: {},
+      _hookCallback: null,
+      ignorePath: true,
+      throw: function(e, extData) {
+        this.onError(e, extData);
+        throw e;
+      },
+     
+     
+      onError: function(e, extData) {
+        try {
+         
+          if (e.BADJS_EXCUTED == true) {
+            return;
+          }
+          e.BADJS_EXCUTED = true;
+          var data = errToData(e);
+          data.uin = this.uin;
+          data.mid = this.mid;
+          data.view = this.view;
+          data.cmdb_module = 'mmbizwap';
+         
+          if (!!extData) {
+            data = extend(data, extData);
+          }
+         
+          if (data.cid) {
+            data.key = "[" + data.cid + "]:" + data.key;
+          }
+          
+          if (data._info) {
+            if (Object.prototype.toString.call(data._info) == "[object Object]") {
+              data.msg += " || info:" + JSON.stringify(data._info);
+            } else if (Object.prototype.toString.call(data._info) == "[object String]") {
+              data.msg += " || info:" + data._info;
+            } else {
+              data.msg += " || info:" + data._info;
+            }
+          }
+          if (typeof this._hookCallback == "function") {
+            if (this._hookCallback(data) === false) {
+              return
+            }
+          }
+          this._send(data);
+          return _.BadJs;
+        } catch (e) {
+          console.error(e);
+        }
+      },
+      winErr: function(event) {
+        if (event.error && event.error.BADJS_EXCUTED) {
+          return;
+        }
+        if (event.type === 'unhandledrejection') {
+          _.BadJs.onError(createError(event.type, typeof event.reason === 'object' ? JSON.stringify(event.reason) : event.reason, "", "", "", event.reason));
+        }else{
+          _.BadJs.onError(createError(BADJS_WIN_ERR, event.message, event.filename, event.lineno, event.colno, event.error));
+        }
+      },
+      init: function(uin, mid, view) {
+        this.uin = uin || this.uin;
+        this.mid = mid || this.mid;
+        this.view = view || this.view;
+        return _.BadJs;
+      },
+     
+      hook: function(fn) {
+        this._hookCallback = fn;
+        return _.BadJs;
+      },
+      _send: function(data) {
+       
+        if (!data.mid) {
+          if (typeof window.PAGE_MID !== 'undefined' && window.PAGE_MID) {
+            data.mid = window.PAGE_MID;
+          } else {
+            return;
+          }
+        }
+        if (!data.uin) {
+          data.uin = window.user_uin || 0;
+        }
+       
+        var flag = [data.mid, data.name, data.key].join("|");
+        if (this._cache && this._cache[flag]) {
+          return
+        } else {
+          this._cache && (this._cache[flag] = true);
+          this._xhr(data);
+        }
+        return _.BadJs;
+      },
+      _xhr: function(data) {
+       
+        var xmlobj;
+        if (window.ActiveXObject) {
+          try {
+            xmlobj = new ActiveXObject("Msxml2.XMLHTTP");
+          } catch (e) {
+            try {
+              xmlobj = new ActiveXObject("Microsoft.XMLHTTP");
+            } catch (E) {
+              xmlobj = false;
+            }
+          }
+        } else if (window.XMLHttpRequest) {
+          xmlobj = new XMLHttpRequest();
+        }
+        var param = "";
+        for (var key in data) {
+          if (key && data[key]) {
+            param += [key, "=", encodeURIComponent(data[key]), "&"].join("");
+          }
+        }
+        if (xmlobj && typeof xmlobj.open == "function") {
+          xmlobj.open("POST", "https://badjs.weixinbridge.com/report", true);
+          xmlobj.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+          xmlobj.onreadystatechange = function(status) {};
+          xmlobj.send(param.slice(0, -1));
+        } else {
+          var img = new Image();
+          img.src = "https://badjs.weixinbridge.com/report?" + param;
+        }
+      },
+     
+      report: function(name, key, data) {
+        this.onError(createError(name, key), data);
+        return this;
+      },
+     
+      mark: function(info) {
+        this._info = extend(this._info, info);
+      },
+      nocache: function() {
+        this._cache = false;
+        return _.BadJs;
+      }
+    }
+    function createError(name, msg, url, line, col, error) {
+      return {
+        name: name || "",
+        message: msg || "",
+        file: url || "",
+        line: line || "",
+        col: col || "",
+        stack: (error && error.stack) || "",
+      }
+    }
+   
+    
+    function errToData(e) {
+      var _stack = parseStack(e);
+      return {
+        name: e.name,
+        key: e.message,
+        msg: e.message,
+        stack: _stack.info,
+        file: _stack.file,
+        line: _stack.line,
+        col: _stack.col,
+        client_version: "",
+        _info: e._info
+      }
+    }
+    function parseStack(e) {
+      e._info = e._info || "";
+      var stack = e.stack || "";
+      var _stack = {
+        info: stack,
+        file: e.file || "",
+        line: e.line || "",
+        col: e.col || "",
+      };
+      if (_stack.file == "") {
+       
+        var stackArr = stack.split(/\bat\b/);
+        if (stackArr && stackArr[1]) {
+          var match = /(https?:\/\/[^\n]+)\:(\d+)\:(\d+)/.exec(stackArr[1]);
+          if (match) {
+           
+            if (match[1] && match[1] != _stack.file) {
+              _stack.file && (e._info += " [file: " + _stack.file + " ]");
+              _stack.file = match[1];
+            }
+            if (match[2] && match[2] != _stack.line) {
+              _stack.line && (e._info += " [line: " + _stack.line + " ]");
+              _stack.line = match[2];
+            }
+            if (match[3] && match[3] != _stack.col) {
+              _stack.col && (e._info += " [col: " + _stack.col + " ]");
+              _stack.col = match[3];
+            }
+          }
+        }
+      }
+     
+      if (_stack && _stack.file && _stack.file.length > 0) {
+        _stack.info = _stack.info.replace(new RegExp(_stack.file.split("?")[0], "gi"), "__FILE__")
+      }
+     
+      if (_.BadJs.ignorePath) {
+        _stack.info = _stack.info.replace(/http(s)?\:[^:\n]*\//ig, "").replace(/\n/gi, "");
+      }
+      return _stack;
+    }
+   
+    window.addEventListener && window.addEventListener('error', _.BadJs.winErr);
+    window.addEventListener && window.addEventListener('unhandledrejection', _.BadJs.winErr);
+    return _.BadJs;
+  })(WX_BJ_REPORT);
+  window.WX_BJ_REPORT = WX_BJ_REPORT;
+  
+  function __moonf__() {
+    if (window.__moonhasinit) return;
+    window.__moonhasinit = true;
+    window.__moonclientlog = [];
+    if (typeof JSON != "object") {
+      window.JSON = {
+        stringify: function() { return ""; },
+        parse: function() { return {}; }
+      };
+    }
+    var moon_init = function() {
+      
+      (function() {
+        var inWx = (/MicroMessenger/i).test(navigator.userAgent);
+        var inMp = (/MPAPP/i).test(navigator.userAgent);
+        var _idkey = 121261;
+        var _startKey;
+        var _limit;
+        var _badjsId;
+        var _reportOpt;
+        var _extInfo;
+        var MOON_AJAX_NETWORK_OFFSET = 4;
+        window.__initCatch = function(opt) {
+          _idkey = opt.idkey;
+          _startKey = opt.startKey || 0;
+          _limit = opt.limit;
+          _badjsId = opt.badjsId;
+          _reportOpt = opt.reportOpt || "";
+          _extInfo = opt.extInfo || {};
+          _extInfo.rate = _extInfo.rate || 0.5;
+        }
+       
+        window.__moon_report = function(array, rate_opt) {
+          var isAcrossOrigin = false;
+          var href = '';
+          try {
+            href = top.location.href;
+          } catch (e) {
+            isAcrossOrigin = true;
+          }
+          var rate = 0.5;
+          if (!!_extInfo && !!_extInfo.rate) {
+            rate = _extInfo.rate;
+          }
+          if (!!rate_opt && (typeof rate_opt == 'number')) {
+            rate = rate_opt;
+          }
+          if (
+            (!(/mp\.weixin\.qq\.com/).test(location.href) && !(/payapp\.weixin\.qq\.com/).test(location.href)) ||
+            Math.random() > rate ||
+            !(inWx || inMp) ||
+            (top != window && !isAcrossOrigin && !(/mp\.weixin\.qq\.com/).test(href))
+          ) {
+           
+          }
+          if (isObject(array))
+            array = [array];
+          if (!isArray(array) || _idkey == '')
+            return;
+          var data = "";
+          var log = [];
+          var key = [];
+          var val = [];
+          var idkey = [];
+         
+          if (typeof _limit != "number") {
+            _limit = Infinity;
+          }
+          for (var i = 0; i < array.length; i++) {
+            var item = array[i] || {};
+            if (item.offset > _limit) continue;
+            if (typeof item.offset != "number") continue;
+            if (item.offset == MOON_AJAX_NETWORK_OFFSET && !!_extInfo && !!_extInfo.network_rate && Math.random() >= _extInfo.network_rate) {
+              continue;
+            }
+           
+            var k = _limit == Infinity ? _startKey : (_startKey + item.offset);
+            log[i] = (("[moon]" + _idkey + "_" + k + ";") + item.log + ";" + getErrorMessage(item.e || {})) || "";
+            key[i] = k;
+            val[i] = 1;
+          }
+          for (var j = 0; j < key.length; j++) {
+            idkey[j] = _idkey + "_" + key[j] + "_" + val[j];
+            data = data + "&log" + j + "=" + log[j];
+          }
+          if (idkey.length > 0) {
+           
+            sendReport("POST", location.protocol + '//mp.weixin.qq.com/mp/jsmonitor?', "idkey=" + idkey.join(";") + "&r=" + Math.random() + "&lc=" + log.length + data);
+           
+           
+            var rate = 1;
+            if (_extInfo && _extInfo.badjs_rate) {
+              rate = _extInfo.badjs_rate;
+            }
+            if (Math.random() < rate) {
+              data = data.replace(/uin\:(.)*\|biz\:(.)*\|mid\:(.)*\|idx\:(.)*\|sn\:(.)*\|/, '');
+              if(!!_badjsId){
+                var _img = new Image();
+                var _src = 'https://badjs.weixinbridge.com/badjs?id=' + _badjsId + '&level=4&from=' + encodeURIComponent(location.host) + '&msg=' + encodeURIComponent(data);
+                _img.src = _src.slice(0, 1024);
+              }
+             
+              if (typeof WX_BJ_REPORT != "undefined" && WX_BJ_REPORT.BadJs) {
+                for (var i = 0; i < array.length; i++) {
+                  var item = array[i] || {};
+                  if (item.e) {
+                    WX_BJ_REPORT.BadJs.onError(item.e,{_info:item.log});
+                  } else {
+                    var name = /[^:;]*/.exec(item.log)[0];
+                    WX_BJ_REPORT.BadJs.report(name, item.log, { mid: "mmbizwap:Monitor" });
+                  }
+                }
+              }
+            } else {
+             
+              for (var i = 0; i < array.length; i++) {
+                var item = array[i] || {};
+                if (item.e) {
+                  item.e.BADJS_EXCUTED = true;
+                }
+              }
+            }
+          }
+        }
+        function isArray(obj) {
+          return Object.prototype.toString.call(obj) === '[object Array]';
+        }
+        function isObject(obj) {
+          return Object.prototype.toString.call(obj) === '[object Object]';
+        }
+        function getErrorMessage(e) {
+          var stack = e.stack + ' ' + e.toString() || "";
+          try {
+           
+            if (!window.testenv_reshost) {
+              stack = stack.replace(/http(s)?:\/\/res\.wx\.qq\.com/g, "");
+            } else {
+              var host = 'http(s)?://' + window.testenv_reshost;
+              var reg = new RegExp(host, 'g');
+              stack = stack.replace(reg, "");
+            }
+           
+            var reg = /\/([^.]+)\/js\/(\S+?)\.js(\,|:)?/g;
+            while (reg.test(stack)) {
+             
+              stack = stack.replace(reg, function(a, b, c, d, e, f) {
+                return c + d
+              });
+            }
+          } catch (e) {
+            stack = e.stack ? e.stack : ""
+          }
+          var ret = [];
+          for (o in _reportOpt) {
+            if (_reportOpt.hasOwnProperty(o)) {
+              ret.push(o + ":" + _reportOpt[o]);
+            }
+          }
+          ret.push("STK:" + stack.replace(/\n/g, ""));
+          return ret.join("|");
+        }
+        function sendReport(type, url, data) {
+          if (!/^mp\.weixin\.qq\.com$/.test(location.hostname)) {
+            var tmp = [];
+            data = data.replace(location.href, (location.origin || "") + (location.pathname || "")).replace("#wechat_redirect", "").replace("#rd", "").split("&");
+            for (var i = 0, il = data.length; i < il; i++) {
+              var a = data[i].split("=");
+              if (!!a[0] && !!a[1]) {
+                tmp.push(a[0] + "=" + encodeURIComponent(a[1]));
+              }
+            }
+            var _img = new window.Image();
+            _img.src = (url + tmp.join("&")).substr(0, 1024);
+            return;
+          }
+          var xmlobj;
+          if (window.ActiveXObject) {
+            try {
+              xmlobj = new ActiveXObject("Msxml2.XMLHTTP");
+            } catch (e) {
+              try {
+                xmlobj = new ActiveXObject("Microsoft.XMLHTTP");
+              } catch (E) {
+                xmlobj = false;
+              }
+            }
+          } else if (window.XMLHttpRequest) {
+            xmlobj = new XMLHttpRequest();
+          }
+          if (!xmlobj) return;
+         
+          xmlobj.open(type, url, true);
+          xmlobj.setRequestHeader("cache-control", "no-cache");
+          xmlobj.setRequestHeader("Content-Type", "application/x-www-form-urlencoded; charset=UTF-8");
+          xmlobj.setRequestHeader("X-Requested-With", "XMLHttpRequest");
+          xmlobj.send(data);
+        }
+
+      })();
+     
+    };
+    moon_init();
+   
+    (!!window.__moon_initcallback) && (window.__moon_initcallback());
+  }
+ 
+ 
+ 
+ 
+  __moonf__();
+  
+  if (!!window.addEventListener){
+    window.addEventListener("load",function(){
+      var MOON_SCRIPT_ERROR_KEY_OFFSET = 1;
+      var ns = document.querySelectorAll("[reportloaderror]");
+      for(var ni=0,nl=ns.length;ni<nl;ni++)
+        ns[ni].onerror=function(ev){
+          window.__moon_report([{ offset: MOON_SCRIPT_ERROR_KEY_OFFSET, log: "load_script_error:" + ev.target.src, e: new Error('LoadResError') }], 1);
+          window.WX_BJ_REPORT.BadJs.report("load_script_error", ev.target.src, { mid: "mmbizwap:Monitor" });
+        };
+    });
+  }
+  </script>
+<title></title>
+<script nonce="" reportloaderror="">
+    (() => {
+     
+      const ua = navigator.userAgent;
+      const noMobile = !(/(iPhone|iPad|iPod|iOS)/i.test(ua) || /Windows\sPhone/i.test(ua) || /(Android)/i.test(ua));
+      setTimeout(() => {
+        
+      }, 1000);
+    })();
+    </script>
+<link href="http://res.wx.qq.com/t/wx_fed/weui-source/res/2.6.4/weui.min.css" rel="stylesheet" reportloaderror="" type="text/css"/>
+<style>
+html,body{height:100%;}
+.weui-msg__title{
+    word-break: break-word;
+}
+</style>
+<script nonce="" reportloaderror="" type="module">import.meta.url;import("_").catch(()=>1);async function* g(){};window.__vite_is_modern_browser=true;</script>
+<script nonce="" reportloaderror="" type="module">!function(){if(window.__vite_is_modern_browser)return;console.warn("vite: loading legacy chunks, syntax error above and the same error below should be ignored");var e=document.getElementById("vite-legacy-polyfill"),n=document.createElement("script");n.src=e.src,n.onload=function(){System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))},document.body.appendChild(n)}();</script>
+<script crossorigin="" nonce="" reportloaderror="" src="//res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/del.lv3hrozk069c73dc.js" type="module"></script>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/modulepreload-polyfill.lv3hrozk4abee2a4.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/moment.lv3hrozk07db360f.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/core.lv3hrozk8391f9c8.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/dom.lv3hrozkfcc5c389.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/event.lv3hrozkfe442013.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/jsmonitor_report.lv3hrozk964ac393.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/comm_report.lv3hrozk2ea5925b.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/storage.lv3hrozk595374ad.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/comm_utils.lv3hrozk62e0a28a.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/page_utils.lv3hrozka50cffb0.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/background_color.lv3hrozkc775d16f.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/rec_report_key.lv3hrozk1050239f.js" rel="modulepreload" reportloaderror=""/>
+<link crossorigin="" href="http://res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/set_article_read.lv3hrozk047818a8.js" rel="modulepreload" reportloaderror=""/>
+<style>
+      .cooldown_tips {
+        margin: 30px auto;
+        margin-top: 0;
+        display: flex;
+        align-items: center;
+        padding: 10px;
+        font-size: 14px;
+        background-color: #f6f7f9;
+        border-radius: 6px;
+      }
+      .cooldown_tips_icon {
+        display: block;
+        width: 18px;
+        height: 18px;
+        margin-right: 8px;
+      }
+    </style>
+</head>
+<body class="zh_CN wx_wap_page discuss_tab appmsg_skin_default appmsg_style_default" id="">
+<link href="http://res.wx.qq.com" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://mmbiz.qpic.cn" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://mpcdn.qpic.cn" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://mpcdn.weixin.qq.com" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://file.daihuo.qq.com" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://wxa.wxs.qq.com" rel="dns-prefetch" reportloaderror=""/>
+<link href="http://res.wx.qq.com/a/wx_fed/assets/res/NTI4MWU5.ico" rel="shortcut icon" reportloaderror="" type="image/x-icon"/>
+<link color="#4C4C4C" href="http://res.wx.qq.com/a/wx_fed/assets/res/MjliNWVm.svg" rel="mask-icon" reportloaderror=""/>
+<link href="http://res.wx.qq.com/a/wx_fed/assets/res/OTE0YTAw.png" rel="apple-touch-icon-precomposed" reportloaderror=""/>
+<script nonce="" reportloaderror="" type="text/javascript">
+String.prototype.html = function (encode) {
+  var replace = ["&#39;", "'", "&quot;", '"', "&nbsp;", " ", "&gt;", ">", "&lt;", "<", "&yen;", "¥", "&amp;", "&"];
+ 
+ 
+ 
+ 
+ 
+  
+  var replaceReverse = ["&", "&amp;", "¥", "&yen;", "<", "&lt;", ">", "&gt;", " ", "&nbsp;", '"', "&quot;", "'", "&#39;"];
+  var target;
+  if (encode) {
+    target = replaceReverse;
+  } else {
+    target = replace;
+  }
+  for (var i = 0, str = this; i < target.length; i += 2) {
+    str = str.replace(new RegExp(target[i], 'g'), target[i + 1]);
+  }
+  return str;
+};
+
+window.isInWeixinApp = function () {
+  return /MicroMessenger/.test(navigator.userAgent);
+};
+
+window.getQueryFromURL = function (url) {
+  url = url || 'http://qq.com/s?a=b#rd';
+  var tmp = url.split('?'),
+    query = (tmp[1] || "").split('#')[0].split('&'),
+    params = {};
+  for (var i = 0; i < query.length; i++) {
+    var arg = query[i].split('=');
+    params[arg[0]] = arg[1];
+  }
+  if (params['pass_ticket']) {
+    params['pass_ticket'] = encodeURIComponent(params['pass_ticket'].html(false).html(false).replace(/\s/g, "+"));
+  }
+  return params;
+};
+
+
+(function () {
+  var params = getQueryFromURL(location.href);
+  window.uin = params['uin'] || "" || '';
+  window.key = params['key'] || "" || '';
+  window.wxtoken = params['wxtoken'] || '';
+  window.pass_ticket = params['pass_ticket'] || '';
+  window.appmsg_token = "" || "";
+
+  var ua = navigator.userAgent;
+  if (ua.match(/Mac\sOS\sX\s(\d+[\.|_]\d+)/) || ua.match(/Windows(\s+\w+)?\s+?(\d+\.\d+)/) || ua.match(/Linux\s/)) {
+    document.body.classList.add('pages_skin_pc');
+  }
+  if (/MPAPP\/([\d\.]+)/i.test(ua)) {
+    document.body.classList.add('pages_skin_mpapp');
+  }
+  if (params['uninteractive']) {
+    document.body.classList.add('pages_skin_browser_underline');
+  }
+})();
+</script>
+<script nonce="" reportloaderror="" type="text/javascript">
+window.__ajaxTransferConfig = {};
+</script>
+<div class="weui-msg">
+<div class="weui-msg__icon-area">
+<i class="weui-icon-warn weui-icon_msg"></i>
+</div>
+<div class="weui-msg__text-area">
+<h2 class="weui-msg__title title">
+                        此内容因违规无法查看
+                    </h2>
+<div class="weui-msg__desc">
+<p class="tips">由用户投诉并经平台审核，可能存在涉嫌不当使用国家机关、国家机关工作人员的名义或形象的表述内容，查看<a href="https://mp.weixin.qq.com/mp/opshowpage?action=oplaw&amp;id=32&amp;t=operation/faq_index#wechat_redirect">对应规则</a></p>
+</div>
+</div>
+<div class="weui-msg__extra-area">
+<div class="weui-footer">
+<p class="weui-footer__links">
+<a class="weui-footer__link" href="https://mp.weixin.qq.com/webpoc/ruleCenter?type=oa">微信公众平台运营中心</a>
+</p>
+</div>
+</div>
+</div>
+<script nonce="" reportloaderror="" type="text/javascript">
+window.logs.pagetime.page_begin = Date.now();
+
+try {
+  var adIframeUrl = localStorage.getItem('__WXLS_ad_iframe_url');
+  if (window === top) {
+    if (adIframeUrl) {
+      if (navigator.userAgent.indexOf('iPhone') > -1) {
+        var img = new Image();
+        img.src = adIframeUrl;
+      } else {
+        var link = document.createElement('link');
+        link.rel = 'prefetch';
+        link.href = adIframeUrl;
+        document.getElementsByTagName('head')[0].appendChild(link);
+      }
+    }
+  }
+} catch (err) {
+
+}
+</script>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_colon" style="display:none">：</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_comma" style="display:none">，</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_period" style="display:none">。</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_space" style="display:none"> </span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_type_video" style="display:none">视频</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_type_weapp" style="display:none">小程序</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_zan_btn_txt" style="display:none">赞</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_zan_btn_tips" style="display:none">，轻点两下取消赞</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_like_btn_txt" style="display:none">在看</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_like_btn_tips" style="display:none">，轻点两下取消在看</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_share_btn_txt" style="display:none">分享</span>
+<span aria-hidden="true" class="weui-a11y_ref" id="js_a11y_comment_btn_txt" style="display:none">留言</span>
+<script nonce="" reportloaderror="" type="text/javascript">
+(function () {
+  var totalCount = 0,
+    finishCount = 0;
+
+  function _addScript(uri, cb) {
+    totalCount++;
+    var node = document.createElement('SCRIPT');
+    node.type = 'text/javascript';
+    node.src = uri;
+    node.setAttribute('nonce', '');
+    if (cb) {
+      node.onload = cb;
+    }
+    document.getElementsByTagName('head')[0].appendChild(node);
+  }
+  if ((document.cookie && document.cookie.indexOf('vconsole_open=1') > -1) || location.href.indexOf('vconsole=1') > -1) {
+    _addScript('https://mp.weixin.qq.com/mmbizappmsg/zh_CN/htmledition/js/scripts/vconsole-3.14.6.js', function () {
+      window.vConsole = new window.VConsole();
+    });
+  }
+  if (document.cookie && document.cookie.indexOf('__xweb_remote_debug_device_token__') > -1) {
+    _addScript('https://mp.weixin.qq.com/mmbizappmsg/zh_CN/htmledition/js/scripts/mprdev-0.2.5.js', function () {
+      _addScript('https://mp.weixin.qq.com/mmbizappmsg/zh_CN/htmledition/js/scripts/xwebrd-0.0.2.js');
+    });
+  }
+})();
+</script>
+<script nonce="" reportloaderror="" type="text/javascript">
+    window.cgiData = {
+        del_reason_id: '20431',
+        del_reason: '可能存在涉嫌不当使用国家机关、国家机关工作人员的名义或形象的表述内容',
+        user_name: 'gh_35adc6b5cc13',
+        nick_name: '同语II',
+    };
+</script>
+<script nomodule="" nonce="" reportloaderror="">!function(){var e=document,t=e.createElement("script");if(!("noModule"in t)&&"onbeforeload"in t){var n=!1;e.addEventListener("beforeload",(function(e){if(e.target===t)n=!0;else if(!e.target.hasAttribute("nomodule")||!n)return;e.preventDefault()}),!0),t.type="module",t.src=".",e.head.appendChild(t),t.remove()}}();</script>
+<script crossorigin="" id="vite-legacy-polyfill" nomodule="" nonce="" reportloaderror="" src="//res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/polyfills-legacy.lv3hrozke60bffda.js"></script>
+<script crossorigin="" data-src="//res.wx.qq.com/mmbizappmsg/zh_CN/htmledition/js/assets/del-legacy.lv3hrozk1c53bcde.js" id="vite-legacy-entry" nomodule="" nonce="" reportloaderror="">System.import(document.getElementById('vite-legacy-entry').getAttribute('data-src'))</script>
+</body>
+</html>
