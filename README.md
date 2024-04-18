@@ -4,7 +4,7 @@
 <!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 ### 2024
 - [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2024/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
-- [20240403_1《紫颜色》：自从有了她，我又开始重新生活了](https://CommonLanguage.github.io/TYarchives2024/20240403_1《紫颜色》：自从有了她，我又开始重新生活了.html)<br>
+- [20240403_1《紫颜色》：自从有了她，我又开始重新生活了](https://CommonLanguage.github.io/TYarchives2024/20240403_1《紫颜色》：自从有了她，我又开始重新生活了.pdf)<br>
 - [20240328_2转载人类性学来了！](https://CommonLanguage.github.io/TYarchives2024/20240328_2转载人类性学来了！.html)<br>
 - [20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！](https://CommonLanguage.github.io/TYarchives2024/20240328_1Ta山想要快速获取全球最新SOGIESC法律动态？有ILGA数据库就够了！.html)<br>
 - [20240327_1线上沙龙投资性别平等性别公益资助研究报告发布](https://CommonLanguage.github.io/TYarchives2024/20240327_1线上沙龙投资性别平等性别公益资助研究报告发布.html)<br>
