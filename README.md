@@ -4,7 +4,7 @@
 <!-- - [x](https://CommonLanguage.github.io/TYarchives2023/x.html)<br> -->
 ### 2024
 - [20240625_1转载志愿者招募伴行青年项目组邀请你一起成人成事](https://CommonLanguage.github.io/TYarchives2024/20240604_1转载志愿者招募伴行青年项目组邀请你一起成人成事.html)<br>
-- [20240625_1多元性别 | TA们是从外国“传染”到中国来的吗？](https://CommonLanguage.github.io/TYarchives2024/20240625_1多元性别|TA们是从外国“传染”到中国来的吗？.pdf)<br>
+- [20240625_1多元性别 | TA们是从外国“传染”到中国来的吗？](https://CommonLanguage.github.io/TYarchives2024/20240625_1多元性别_TA们是从外国“传染”到中国来的吗？.pdf)<br>
 - [20240524_1性别消失之后，爱得自由丨泛性恋可见日](https://CommonLanguage.github.io/TYarchives2024/20240524_1性别消失之后，爱得自由丨泛性恋可见日.pdf)<br>
 - [20240509_1性与性别领域传播兼职招募：构筑我们的多元叙事语言](https://CommonLanguage.github.io/TYarchives2024/20240509_1性与性别领域传播兼职招募：构筑我们的多元叙事语言.pdf)<br>
 - [20240426_1九封拉拉情书：在迷失的森林中继续游荡](https://CommonLanguage.github.io/TYarchives2024/20240426_1九封拉拉情书：在迷失的森林中继续游荡.html)<br>
